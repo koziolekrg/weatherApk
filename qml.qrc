@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/BigForecastIcon.qml</file>
+        <file>components/ForecastIcon.qml</file>
+        <file>components/WeatherIcon.qml</file>
+        <file>icons/weather-sunny.png</file>
+        <file>icons/weather-showers.png</file>
+        <file>icons/weather-overcast.png</file>
+    </qresource>
+</RCC>
